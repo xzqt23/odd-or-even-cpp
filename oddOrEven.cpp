@@ -7,7 +7,7 @@ int main ()
     std::cout <<"Please enter a number:";
     std::cin>>number;
 
-    if(number % 2 ==0){
+    if(number % 2 == 0){
         std::cout <<"The number you entered is an even number"; 
     }
 
